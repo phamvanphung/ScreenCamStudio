@@ -1,0 +1,45 @@
+{
+  "python_version": "3.13.5",
+  "executable": "C:\\Users\\phamv\\AppData\\Local\\SCS\\v184\\py313\\Scripts\\python.exe",
+  "architecture_bits": 64,
+  "implementation": "CPython",
+  "operating_system": "Windows-11-10.0.26200-SP0",
+  "errors": [],
+  "warnings": [],
+  "packages": {
+    "PySide6": "6.11.1",
+    "NumPy": "2.5.1",
+    "OpenCV": "4.13.0.92",
+    "MSS": "10.2.0",
+    "PyAudioWPatch": "0.2.12.8",
+    "DXcam": "0.3.0"
+  },
+  "supported": true,
+  "imports": {
+    "PySide6": {
+      "status": "PASS",
+      "module": "PySide6"
+    },
+    "NumPy": {
+      "status": "PASS",
+      "module": "numpy"
+    },
+    "OpenCV": {
+      "status": "PASS",
+      "module": "cv2"
+    },
+    "MSS": {
+      "status": "PASS",
+      "module": "mss"
+    },
+    "PyAudioWPatch": {
+      "status": "PASS",
+      "module": "pyaudiowpatch"
+    },
+    "DXcam": {
+      "status": "PASS",
+      "module": "dxcam"
+    }
+  },
+  "status": "PASS"
+}
