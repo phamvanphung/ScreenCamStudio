@@ -585,23 +585,9 @@ ScreenCam Studio captures highly sensitive sources: screens, microphones, webcam
 
 By default, recording is intended to happen locally. Livestream data is sent to the RTMP/RTMPS endpoint configured by the user.
 
-For private security reports, contact:
-
-```text
-<YOUR_SECURITY_EMAIL>
-```
-
-Replace this placeholder before publishing.
-
 ## License
 
 This README is prepared for an **MIT-licensed** open-source release.
-
-Before publishing the repository, add a `LICENSE` file containing the MIT License and replace the copyright holder with:
-
-```text
-<YEAR> <YOUR_NAME_OR_ORGANIZATION>
-```
 
 Third-party components retain their own licenses. In particular, the license obligations of FFmpeg depend on the exact build and configuration being distributed.
 
