@@ -606,12 +606,6 @@ ScreenCam Studio is built on the work of the following open-source projects:
 
 Please support and follow the licenses of the upstream projects.
 
-## Maintainers
-
-* `<YOUR_NAME_OR_ORGANIZATION>` — project maintainer
-
-Repository: `<YOUR_REPOSITORY_URL>`
-
 ## Open-source release checklist
 
 Before making the repository public:
